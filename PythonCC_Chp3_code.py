@@ -130,3 +130,18 @@ print(f"\nGreat news {invitations[0].title()}! I've found a bigger table for mor
 print(f"Great news {invitations[1].title()}! I've found a bigger table for more guests.")
 print(f"Great news {invitations[2].title()}! I've found a bigger table for more guests.")
 
+#3-7
+
+print("\nHey everyone, unfortunately I can only have two people at dinner now.")
+invitations.pop()
+invitations.pop()
+invitations.pop()
+invitations.pop()
+print(invitations)
+
+print(f"\nHey {invitations[0].title()}, just wanted to let you know that you're still invited")
+print(f"\nHey {invitations[1].title()}, just wanted to let you know that you're still invited")
+
+del invitations[1]
+
+print(invitations)
