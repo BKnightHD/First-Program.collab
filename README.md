@@ -4,10 +4,7 @@ My first practice at learning python, written in google colab
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Chapter 1](#Chapter 1)
 
 ## Installation
 
