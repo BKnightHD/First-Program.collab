@@ -14,4 +14,10 @@ A brief description of your project goes here.
 Explain how to install your project, including any dependencies that need to be installed. You can use code blocks for command-line instructions.
 
 ```bash
+
+
+const myFunction = () => {
+  console.log('Hello, World!');
+};
+
 npm install
