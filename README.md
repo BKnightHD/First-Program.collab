@@ -1,6 +1,6 @@
-# Project Name
+# Python Basics
 
-A brief description of your project goes here.
+My first practice at learning python, written in google colab
 
 ## Table of Contents
 
