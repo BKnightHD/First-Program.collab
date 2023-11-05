@@ -4,7 +4,7 @@ My first practice at learning python, written in google colab
 
 ## Table of Contents
 
-- [Chapter 1](#Chapter 1)
+- Chatper 1
 
 ## Installation
 
