@@ -3,7 +3,9 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "authorship_tag": "ABX9TyNEjChZGFb8NaaTEpoICS2s",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -14,6 +16,16 @@
     }
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/BKnightHD/Python.zero.to.one/blob/main/Chapter%202\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "markdown",
       "source": [
@@ -293,6 +305,30 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Review\n",
+        "Try it yourself\n",
+        "* 2-3 Personal Message\n",
+        "* 2-4 Name Cases\n",
+        "* 2-5 Famous Quote\n",
+        "* 2-6 Famous Quote 2\n",
+        "* 2-7 Stripping Names"
+      ],
+      "metadata": {
+        "id": "bTNYmeKDVEyD"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "TPb1NpnKVDtk"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
