@@ -24,4 +24,20 @@ cars = ['honda', 'kia', 'bmw']
 print(f"I would love to own a {cars[0].title()} one day")
 print(f"I would love to own a {cars[1].title()} one day")
 print(f"I would love to own a {cars[2].title()} one day")
+print("\n")
 
+#3-4 If you could invite anyone, living or deceased, to dinner, whow ould you invite? Make a list that includes at least three people you'd like to invite to dinner. Then use your list to print a message to each person, iviting them to dinner.
+peoples = ['alber einstein', 'j. robert oppenheimer', 'srinivasa ramanujan']
+for people in peoples:
+  print(f"Hello {people.title()}, I'd like to formally invite you to dinner. It would be an honor to have you")
+print("\nWelcome!")
+print("\n")
+
+#3-5 Changing Guest List
+print(f"Unfortunately our dear freind {peoples[2].title()} won't be joing us tonight")
+peoples.remove('srinivasa ramanujan')
+peoples.insert(2, 'elon musk')
+for people in peoples:
+  print(f"Hello {people.title()}, I'd like to formally invite you to dinner. It would be an honor to have you")
+print("\nWelcome!")
+print("\n")
