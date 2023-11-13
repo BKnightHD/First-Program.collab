@@ -1,4 +1,4 @@
-# Python Basics
+# Python Crash Course
 
 Learning Python from scratch
 
