@@ -6,3 +6,5 @@
 ## [Part 1](https://github.com/BKnightHD/Python-CC/tree/main/Part%201:%20Basics):
 
 #### [Chapter 1 - Getting Started](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%201%20-%20Getting%20Started)
+
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%201%20-%20Getting%20Started/Learning%201.PNG)
