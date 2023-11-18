@@ -7,7 +7,7 @@
 
 ## [Chapter 1 - Getting Started](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%201%20-%20Getting%20Started)
 
-![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%201%20-%20Getting%20Started/Learning%201.PNG)
+![alt text](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%201%20-%20Getting%20Started)
 
 ## [Chapter 2 - Variables and Simple Data Types](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%202%20-%20Variables%20and%20Simple%20Data%20Types)
 
@@ -15,6 +15,8 @@
 ![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%202%20-%20Variables%20and%20Simple%20Data%20Types/Learning%20Objectives/LO2.2.PNG)
 
 ## [Chapter 3 - Introducing Lists](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%203%20-%20Introducing%20Lists)
+
+![alt text](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%203%20-%20Introducing%20Lists/Work/Learning%20Objectives)
 
 ## [Chapter 4 - Working With Lists](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%204%20-%20Working%20with%20Lists)
 
