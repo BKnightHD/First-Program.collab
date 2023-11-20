@@ -20,6 +20,9 @@
 
 ## [Chapter 4 - Working With Lists](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%204%20-%20Working%20with%20Lists)
 
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%204%20-%20Working%20with%20Lists/Learning%20Objectives/Learning4.1.PNG)
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%204%20-%20Working%20with%20Lists/Learning%20Objectives/Learning4.2.PNG)
+
 ## [Chapter 5 - If Statements](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%205%20-%20If%20Statments)
 
 ## [Chapter 6 - Dictionaries](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%206%20-%20Dictionaries)
