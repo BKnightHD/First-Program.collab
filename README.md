@@ -25,4 +25,14 @@
 
 ## [Chapter 5 - If Statements](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%205%20-%20If%20Statments)
 
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%205%20-%20If%20Statments/Learning%20Objectives/Chp5.1.PNG)
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%205%20-%20If%20Statments/Learning%20Objectives/Chp5.2.PNG)
+
 ## [Chapter 6 - Dictionaries](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%206%20-%20Dictionaries)
+
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%206%20-%20Dictionaries/Learning%20Objectives/Chp6.1.PNG)
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%206%20-%20Dictionaries/Learning%20Objectives/Chp6.2.PNG)
+
+## [Chapter 7 - User Input and While Loops](https://github.com/BKnightHD/Python-CC/tree/main/Part%201%3A%20Basics/Chapter%207%20-%20User%20Input%20and%20While%20Loops)
+
+![alt text](https://github.com/BKnightHD/Python-CC/blob/main/Part%201%3A%20Basics/Chapter%207%20-%20User%20Input%20and%20While%20Loops/Learning%20Objectives/Chp7.PNG)
