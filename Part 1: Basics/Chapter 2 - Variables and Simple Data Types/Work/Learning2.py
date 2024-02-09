@@ -30,7 +30,7 @@ print(message)
 *   2-7 Stripping Names
 """
 
-#2-3
+#2-3 
 first_name = "grace"
 last_name = 'arnold'
 full_name = first_name + " " + last_name
